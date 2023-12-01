@@ -47,7 +47,7 @@ $ git clone https://github.com/TassioTenorio/Creating-_a_responsive_galary_of_ph
 3. [JavaScript]
 
 ## Author people
-<img style="width:200px" src="foto_perfil.jpg" alt="Imagem do autor">
+<img style="width:200px" src="foto_perfil.jpeg" alt="Imagem do autor">
 
 [Linkedin](www.linkedin.com/in/tassiotenorio)
 
